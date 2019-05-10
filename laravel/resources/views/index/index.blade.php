@@ -22,7 +22,7 @@
     </script>
     <![endif]-->
     <!--[if lt IE 9]>
-    <script type="text/javascript" src="{{URL::asset('js/html5.js')}}"></script>
+    <script type="text/javascript" src="js/html5.js"></script>
     <![endif]-->
 </head>
 <body id="page1">
@@ -59,17 +59,17 @@
             <div class="wrapper">
                 <article class="col-1">
                     <h2>Burn The Night!</h2>
-                    <img src="{{URL::asset('images/1page-img.jpg')}}">
+                    <img src="images/1page-img.jpg">
                     <p class="p1">Music Beats Site is a free web template created by <span class="txt1">TemplateMonster.com</span> team. This website template is optimized for 1024X768 screen resolution. It is also HTML5 &amp; CSS3 valid.</p>
                     <p class="p0">This website template can be delivered in two packages - with PSD source files included and without them. If you need PSD source files, go to the template download page at TemplateMonster to leave the e-mail that you want the template ZIP package to be delivered to.</p>
                 </article>
                 <article class="col-2">
                     <h2>Recent Articles</h2>
                     <ul class="list">
-                        <li><strong>About This Template</strong>Free 1028X768 Optimized Website Template from <a href="http://www.templatemonster.com" class="new_window">TemplateMonster.com</a>! We hope that you like this template and will use for your websites. <a href="#"><img src="{{URL::asset('images/arrow.gif')}}"></a></li>
-                        <li><strong>Music Beats</strong>Sed ut perspiciatis unde omnis iste beatae vitae dicta sunt explicabo labore voluptatemenim. <a href="#"><img src="{{URL::asset('images/arrow.gif')}}"></a></li>
-                        <li><strong>Night Club Life</strong>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet adipisci velit sed quia non numquamt. <a href="#"><img src="{{URL::asset('images/arrow.gif')}}"></a></li>
-                        <li><strong>Best DJ Sets</strong>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet adipisci velit sed quia nnumquamt. <a href="#"><img src="{{URL::asset('images/arrow.gif')}}"></a></li>
+                        <li><strong>About This Template</strong>Free 1028X768 Optimized Website Template from <a href="http://www.templatemonster.com" class="new_window">TemplateMonster.com</a>! We hope that you like this template and will use for your websites. <a href="#"><img src="images/arrow.gif"></a></li>
+                        <li><strong>Music Beats</strong>Sed ut perspiciatis unde omnis iste beatae vitae dicta sunt explicabo labore voluptatemenim. <a href="#"><img src="images/arrow.gif"></a></li>
+                        <li><strong>Night Club Life</strong>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet adipisci velit sed quia non numquamt. <a href="#"><img src="images/arrow.gif')}}"></a></li>
+                        <li><strong>Best DJ Sets</strong>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet adipisci velit sed quia nnumquamt. <a href="#"><img src="images/arrow.gif"></a></li>
                     </ul>
                 </article>
             </div>

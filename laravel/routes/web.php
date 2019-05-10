@@ -17,3 +17,6 @@ Route::get('/', function () {
 
 //前台主页
 Route::get('/index', 'Index\IndexController@index');
+
+//前台登录页面
+Route::get('/login', 'Index\LoginController@login');

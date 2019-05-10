@@ -6,17 +6,17 @@
     <meta name="description" content="Place your description here" />
     <meta name="keywords" content="put, your, keyword, here" />
     <meta name="author" content="cssMoban.com - website templates provider" />
-    <link rel="stylesheet" href="{{URL::asset('css/reset.css')}}" type="text/css" media="all">
-    <link rel="stylesheet" href="{{URL::asset('css/layout.css')}}" type="text/css" media="all">
-    <link rel="stylesheet" href="{{URL::asset('css/style.css')}}" type="text/css" media="all">
-    <script type="text/javascript" src="{{URL::asset('js/jquery-1.4.2.min.js')}}" ></script>
-    <script type="text/javascript" src="{{URL::asset('js/cufon-yui.js')}}"></script>
-    <script type="text/javascript" src="{{URL::asset('js/cufon-replace.js')}}"></script>
-    <script type="text/javascript" src="{{URL::asset('js/script.js')}}"></script>
-    <script type="text/javascript" src="{{URL::asset('js/ITC_Busorama_500.font.js')}}"></script>
+    <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+    <link rel="stylesheet" href="css/layout.css" type="text/css" media="all">
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+    <script type="text/javascript" src="js/jquery-1.4.2.min.js" ></script>
+    <script type="text/javascript" src="js/cufon-yui.js"></script>
+    <script type="text/javascript" src="js/cufon-replace.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="js/ITC_Busorama_500.font.js"></script>
     <!--[if lt IE 7]>
-    <link rel="stylesheet" href="{{URL::asset('css/ie/ie6.css')}}" type="text/css" media="screen">
-    <script type="text/javascript" src="{{URL::asset('js/ie_png.js')}}"></script>
+    <link rel="stylesheet" href="css/ie/ie6.css" type="text/css" media="screen">
+    <script type="text/javascript" src="js/ie_png.js"></script>
     <script type="text/javascript">
         ie_png.fix('.png, header nav ul li, header nav ul li a, h1 a');
     </script>
@@ -67,9 +67,9 @@
                     <h2>Recent Articles</h2>
                     <ul class="list">
                         <li><strong>About This Template</strong>Free 1028X768 Optimized Website Template from <a href="http://www.templatemonster.com" class="new_window">TemplateMonster.com</a>! We hope that you like this template and will use for your websites. <a href="#"><img src="{{URL::asset('images/arrow.gif')}}"></a></li>
-                        <li><strong>Music Beats</strong>Sed ut perspiciatis unde omnis iste beatae vitae dicta sunt explicabo labore voluptatemenim. <a href="#"><img src="images/arrow.gif"></a></li>
-                        <li><strong>Night Club Life</strong>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet adipisci velit sed quia non numquamt. <a href="#"><img src="images/arrow.gif"></a></li>
-                        <li><strong>Best DJ Sets</strong>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet adipisci velit sed quia nnumquamt. <a href="#"><img src="'images/arrow.gif"></a></li>
+                        <li><strong>Music Beats</strong>Sed ut perspiciatis unde omnis iste beatae vitae dicta sunt explicabo labore voluptatemenim. <a href="#"><img src="{{URL::asset('images/arrow.gif')}}"></a></li>
+                        <li><strong>Night Club Life</strong>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet adipisci velit sed quia non numquamt. <a href="#"><img src="{{URL::asset('images/arrow.gif')}}"></a></li>
+                        <li><strong>Best DJ Sets</strong>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet adipisci velit sed quia nnumquamt. <a href="#"><img src="{{URL::asset('images/arrow.gif')}}"></a></li>
                     </ul>
                 </article>
             </div>

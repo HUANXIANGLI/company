@@ -65,6 +65,7 @@
                         <li><a href="/single">Blog</a></li>
                         <li><a href="/single">About</a></li>
                         <li><a href="/contact">Contact Us</a></li>
+                        <li><a href="/login">login</a></li>
                     </ul>
                 </nav>
             </div>

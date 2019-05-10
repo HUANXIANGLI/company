@@ -67,9 +67,9 @@
                     <h2>Recent Articles</h2>
                     <ul class="list">
                         <li><strong>About This Template</strong>Free 1028X768 Optimized Website Template from <a href="http://www.templatemonster.com" class="new_window">TemplateMonster.com</a>! We hope that you like this template and will use for your websites. <a href="#"><img src="{{URL::asset('images/arrow.gif')}}"></a></li>
-                        <li><strong>Music Beats</strong>Sed ut perspiciatis unde omnis iste beatae vitae dicta sunt explicabo labore voluptatemenim. <a href="#"><img src="{{URL::asset('images/arrow.gif')}}"></a></li>
-                        <li><strong>Night Club Life</strong>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet adipisci velit sed quia non numquamt. <a href="#"><img src="{{URL::asset('images/arrow.gif')}}"></a></li>
-                        <li><strong>Best DJ Sets</strong>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet adipisci velit sed quia nnumquamt. <a href="#"><img src="{{URL::asset('images/arrow.gif')}}"></a></li>
+                        <li><strong>Music Beats</strong>Sed ut perspiciatis unde omnis iste beatae vitae dicta sunt explicabo labore voluptatemenim. <a href="#"><img src="images/arrow.gif"></a></li>
+                        <li><strong>Night Club Life</strong>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet adipisci velit sed quia non numquamt. <a href="#"><img src="images/arrow.gif"></a></li>
+                        <li><strong>Best DJ Sets</strong>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet adipisci velit sed quia nnumquamt. <a href="#"><img src="'images/arrow.gif"></a></li>
                     </ul>
                 </article>
             </div>
